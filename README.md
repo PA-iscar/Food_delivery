@@ -53,7 +53,7 @@ just clone it and open index file
 👤 **Abhishek**
 
 - Website: [Portfolio](https://abhi-aro.tech/)
-- Github: [@PA-iscar](https://github.com/abhi-aro)
+- Github: [@abhi-aro](https://github.com/abhi-aro)
 - LinkedIn: [@abhi-aro](https://linkedin.com/in/abhi-aro)
 
 ## Show your support
